@@ -12,3 +12,4 @@ dependencies:
   - scikit-learn==1.2.2
   - pip:
     - shap==0.41.0
+    - xgboost==1.7.5

@@ -19,6 +19,24 @@
 
 Following a short introductory presentation (`Masterclass Explainable AI Student Slides`.pdf) we'll get straight into a guided code along before you'll work within your PSGs to complete an exercise.
 
+You can either attempt these exercises via an online environment called [BinderHub](https://mybinder.org/v2/gh/hsma5/masterclass_shap/HEAD) (no local installs required). Otherwise, to get the correct libraries and versions locally it is recommended that you use the provided conda `environment.yml` file. To create and activate the `shap_xai` environment follow the instructions below.
+
+To create environment. Navigate to the `binder` folder.
+
+`conda env create -f environment.yml`
+
+To activate environment:
+
+`conda activate shap_xai`
+
+To deactivate:
+
+`conda deactivate`
+
+To remove the environment (if desired):
+
+`conda env remove -n shap_xai`
+
 ### Code along notebooks
 
 During the live session, we'll be working our way through a code along notebook; this can be found in the `code_along\` directory.

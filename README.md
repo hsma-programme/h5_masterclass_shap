@@ -5,7 +5,7 @@
 
 ## Module structure
 
-> The masterclass lecture slides are available in this repo, and the lecture is scheduled to take place on the XXXXXXXX.
+> The masterclass lecture slides are available in this repo, and the lecture is scheduled to take place on Tuesday 23 May, 0930 - 1230.
 
 ## Learning outcomes
 

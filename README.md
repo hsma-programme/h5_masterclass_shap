@@ -1,7 +1,4 @@
-# HSMA5: Geospatial Problems
-
-
-**Welcome to the HSMA Masterclass on SHAP - eXplainable AI (XAI)**.
+# **Welcome to the HSMA Masterclass on SHAP - eXplainable AI (XAI)**.
 
 ## Module structure
 
